@@ -1,5 +1,5 @@
 {
-  "name": "jsindo",
+  "name": "indojs",
   "version": "1.0.0",
   "description": "Proyek ini memungkinkan penggunaan sintaks JavaScript dengan gaya penulisan berbahasa Indonesia. Dibuat untuk membantu masyarakat Indonesia yang ingin belajar pemrograman namun kurang familiar dengan istilah-istilah dalam bahasa Inggris. Dengan menggunakan paket ini, belajar coding jadi lebih mudah, intuitif, dan dekat dengan keseharian pengguna.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Erazorre-Teknologi-Bandung/jsindo.git"
+    "url": "git+https://github.com/Erazorre-Teknologi-Bandung/indojs.git"
   },
   "keywords": [
     "javascript",
@@ -19,6 +19,7 @@
     "localization",
     "indonesian-syntax",
     "coding-indonesia",
+    "indojs",
     "js-indo",
     "syntax-translator",
     "education"
@@ -26,7 +27,7 @@
   "author": "Jiilan Nashrulloh Tanjung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Erazorre-Teknologi-Bandung/jsindo/issues"
+    "url": "https://github.com/Erazorre-Teknologi-Bandung/indojs/issues"
   },
-  "homepage": "https://github.com/Erazorre-Teknologi-Bandung/jsindo#readme"
+  "homepage": "https://github.com/Erazorre-Teknologi-Bandung/indojs#readme"
 }
