@@ -1,0 +1,32 @@
+{
+  "name": "jsindo",
+  "version": "1.0.0",
+  "description": "Proyek ini memungkinkan penggunaan sintaks JavaScript dengan gaya penulisan berbahasa Indonesia. Dibuat untuk membantu masyarakat Indonesia yang ingin belajar pemrograman namun kurang familiar dengan istilah-istilah dalam bahasa Inggris. Dengan menggunakan paket ini, belajar coding jadi lebih mudah, intuitif, dan dekat dengan keseharian pengguna.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erazorre-Teknologi-Bandung/jsindo.git"
+  },
+  "keywords": [
+    "javascript",
+    "indonesia",
+    "bahasa-indonesia",
+    "edukasi",
+    "sintaks",
+    "localization",
+    "indonesian-syntax",
+    "coding-indonesia",
+    "js-indo",
+    "syntax-translator",
+    "education"
+  ],
+  "author": "Jiilan Nashrulloh Tanjung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erazorre-Teknologi-Bandung/jsindo/issues"
+  },
+  "homepage": "https://github.com/Erazorre-Teknologi-Bandung/jsindo#readme"
+}
